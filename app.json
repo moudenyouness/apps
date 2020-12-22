@@ -58,65 +58,6 @@
 		"Description" : "Roblox lets you play, create, and be anything you can imagine.",
 		"IconUrl" : "https://raw.githubusercontent.com/moudenyouness/apps/main/i10.png",
 		"Url" : "https://play.google.com/store/apps/details?id=com.roblox.client"
-	},{
-		"Name": "Among Us",
-		"Description" : "Join your crewmates in a multiplayer game of teamwork and betrayal!",
-		"IconUrl" : "https://raw.githubusercontent.com/moudenyouness/apps/main/i1.png",
-		"Url" : "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia"
-	},
-	{
-		"Name": "Sushi Roll 3D - Cooking ASMR Game",
-		"Description" : "Enjoy making sushi in the amazing relaxing game! Cooking has never been so fun!",
-		"IconUrl" : "https://raw.githubusercontent.com/moudenyouness/apps/main/i2.png",
-		"Url" : "https://play.google.com/store/apps/details?id=com.sushirolls.app"
-	},
-	{
-		"Name": "Roof Rails",
-		"Description" : "Simple And Fun",
-		"IconUrl" : "https://raw.githubusercontent.com/moudenyouness/apps/main/i3.png",
-		"Url" : "https://play.google.com/store/apps/details?id=com.pixelbox.roofrails"
-	},
-	{
-		"Name": "Imposter Solo Kill",
-		"Description" : "Let no one survive!",
-		"IconUrl" : "https://raw.githubusercontent.com/moudenyouness/apps/main/i4.png",
-		"Url" : "https://play.google.com/store/apps/details?id=com.iec.imposter.solo.kill"
-	},
-	{
-		"Name": "Wacky Run",
-		"Description" : "Only 1% reach level 99",
-		"IconUrl" : "https://raw.githubusercontent.com/moudenyouness/apps/main/i5.png",
-		"Url" : "https://play.google.com/store/apps/details?id=com.h8games.DoodleRun3D"
-	},
-	{
-		"Name": "Project Makeover",
-		"Description" : "Makeover Puzzle Game",
-		"IconUrl" : "https://raw.githubusercontent.com/moudenyouness/apps/main/i6.png",
-		"Url" : "https://play.google.com/store/apps/details?id=com.bgg.jump"
-	},
-	{
-		"Name": "Construction Set - Satisfying Constructor Game",
-		"Description" : "Build and collect incredible sets of toys from unique blocks and parts!",
-		"IconUrl" : "https://raw.githubusercontent.com/moudenyouness/apps/main/i7.png",
-		"Url" : "https://play.google.com/store/apps/details?id=com.constructor.games"
-	},
-	{
-		"Name": "Match 3D - Matching Puzzle Game",
-		"Description" : "Match various pair of 3D well polished animal, food, emojis and pass the puzzle",
-		"IconUrl" : "https://raw.githubusercontent.com/moudenyouness/apps/main/i8.png",
-		"Url" : "https://play.google.com/store/apps/details?id=com.loop.match3d"
-	},
-	{
-		"Name": "Draw Coliseum",
-		"Description" : "Draw a blade for spinning top and battle!",
-		"IconUrl" : "https://raw.githubusercontent.com/moudenyouness/apps/main/i9.png",
-		"Url" : "https://play.google.com/store/apps/details?id=jp.co.dwango.HcgVOL005DrawColiseum"
-	},
-	{
-		"Name": "Roblox",
-		"Description" : "Roblox lets you play, create, and be anything you can imagine.",
-		"IconUrl" : "https://raw.githubusercontent.com/moudenyouness/apps/main/i10.png",
-		"Url" : "https://play.google.com/store/apps/details?id=com.roblox.client"
 	}
 	
 ]
