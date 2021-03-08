@@ -2,7 +2,7 @@
     "packDatas": [
         {
         "name": "Animals 1",
-        "bannerUrl": "https://raw.githubusercontent.com/moudenyouness/apps/main/jigsaw/animals_1/banners/banner_0.jpg",
+        "bannerUrl": "https://raw.githubusercontent.com/moudenyouness/apps/main/jigsaw/animals_1/banners/banner_1.jpg",
         "price": 20,
         "photoDatas": [{
             "iconUrl": "https://raw.githubusercontent.com/moudenyouness/apps/main/jigsaw/animals_1/icons/icon_0.jpg",
@@ -27,7 +27,7 @@
         }]
     }, {
         "name": "Nature 1",
-        "bannerUrl": "https://raw.githubusercontent.com/moudenyouness/apps/main/jigsaw/nature_1/banners/banner_0.jpg",
+        "bannerUrl": "https://raw.githubusercontent.com/moudenyouness/apps/main/jigsaw/nature_1/banners/banner_3.jpg",
         "price": 30,
         "photoDatas": [{
             "iconUrl": "https://raw.githubusercontent.com/moudenyouness/apps/main/jigsaw/nature_1/icons/icon_0.jpg",
@@ -52,7 +52,7 @@
         }]
     }, {
         "name": "Architecture 1",
-        "bannerUrl": "https://raw.githubusercontent.com/moudenyouness/apps/main/jigsaw/architecture_1/banners/banner_0.jpg",
+        "bannerUrl": "https://raw.githubusercontent.com/moudenyouness/apps/main/jigsaw/architecture_1/banners/banner_1.jpg",
         "price": 40,
         "photoDatas": [{
             "iconUrl": "https://raw.githubusercontent.com/moudenyouness/apps/main/jigsaw/architecture_1/icons/icon_0.jpg",
