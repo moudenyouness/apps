@@ -3,7 +3,7 @@
         {
         "name": "Animals 1",
         "bannerUrl": "https://raw.githubusercontent.com/moudenyouness/apps/main/jigsaw/animals_1/banners/banner_0.jpg",
-        "price": 40,
+        "price": 20,
         "photoDatas": [{
             "iconUrl": "https://raw.githubusercontent.com/moudenyouness/apps/main/jigsaw/animals_1/icons/icon_0.jpg",
             "imageUrl": "https://raw.githubusercontent.com/moudenyouness/apps/main/jigsaw/animals_1/images/image_0.jpg",
@@ -28,7 +28,7 @@
     }, {
         "name": "Nature 1",
         "bannerUrl": "https://raw.githubusercontent.com/moudenyouness/apps/main/jigsaw/nature_1/banners/banner_0.jpg",
-        "price": 40,
+        "price": 30,
         "photoDatas": [{
             "iconUrl": "https://raw.githubusercontent.com/moudenyouness/apps/main/jigsaw/nature_1/icons/icon_0.jpg",
             "imageUrl": "https://raw.githubusercontent.com/moudenyouness/apps/main/jigsaw/nature_1/images/image_0.jpg",
